@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NJ Vinay Chandra Singh</h1>
-<h3 align="left"> I began my data analyst career, starting with statistics, analyzing data through (excel-pivot tables and conditional formatting), generating insights through Excel charts (formulae-based charts and pivot charts), and PowerBI, data cleaning through SQL, Python Pandas. Throughout my journey, I have applied these skills to various datasets, gaining hands-on experience that has significantly contributed to my expertise as a Data Analyst.
+<h4 align="left"> I began my data analyst career, starting with statistics, analyzing data through (excel-pivot tables and conditional formatting), generating insights through Excel charts (formulae-based charts and pivot charts), and PowerBI, data cleaning through SQL, Python Pandas. Throughout my journey, I have applied these skills to various datasets, gaining hands-on experience that has significantly contributed to my expertise as a Data Analyst.
 
 
 
