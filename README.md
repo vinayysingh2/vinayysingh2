@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm NJ Vinay Chandra Singh</h1>
-<h3 align="center">Data Analyst: Cleaning, Analyzing and Visualizing complex datasets</h3>
+<h3 align="left"> I began my data analyst career, starting with statistics, analyzing data through (excel-pivot tables and conditional formatting), generating insights through Excel charts (formulae-based charts and pivot charts), and PowerBI, data cleaning through SQL, Python Pandas. Throughout my journey, I have applied these skills to various datasets, gaining hands-on experience that has significantly contributed to my expertise as a Data Analyst.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayysingh2&label=Profile%20views&color=0e75b6&style=flat" alt="vinayysingh2" /> </p>
 
